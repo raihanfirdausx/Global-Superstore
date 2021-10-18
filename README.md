@@ -20,7 +20,7 @@ The database's entity-relationship from which the data is taken can be seen belo
 ## Data Cleansing & Transformation
 Because the database is still so simple, we don;t need too much queries to get the desired data. Below is the SQL query for the data:
 
-![](/images/SQL.jpeg)
+![](/images/SQL1.jpeg)
 
 ## Data Involved
 The data involved for the input to Power BI can be seen as below:
