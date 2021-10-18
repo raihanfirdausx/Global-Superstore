@@ -1,3 +1,5 @@
+# Global Superstore Sales Overview
+
 ## Project at Glance
 In this project, i will try to demonstrate an end-to-end data analyst project from business request to dashboard overview. The data used in this project comes from a Global Superstore company, and the user is a Sales Manager who want to know the company sales condition around the globe.
 
