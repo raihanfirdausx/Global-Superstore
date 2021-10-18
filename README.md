@@ -1,5 +1,3 @@
-# Global Superstore Sales Overview
- 
 ## Project at Glance
 In this project, i will try to demonstrate an end-to-end data analyst project from business request to dashboard overview. The data used in this project comes from a Global Superstore company, and the user is a Sales Manager who want to know the company sales condition around the globe.
 
@@ -25,7 +23,7 @@ Because the database is still so simple, we don;t need too much queries to get t
 ## Data Involved
 The data involved for the input to Power BI can be seen as below:
 
-![](/images/datamodel.jpeg)
+![](/images/datamodell.jpeg)
 
 ## Dashboard Overview
 The dasboard result:
@@ -40,4 +38,4 @@ The dasboard result:
 ![](/images/addition.jpeg)
 
 
-[<--See other projects](https://github.com/raihanfirdausx/raihanfirdausx.github.io/blob/main/index.html)
+[<--See other projects](https://raihanfirdausx.github.io/#[object%20Object])
