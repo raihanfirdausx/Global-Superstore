@@ -40,4 +40,4 @@ The dasboard result:
 ![](/images/addition.jpeg)
 
 
-[<--See other projects](raihanfirdausx.github.io)
+[<--See other projects](https://github.com/raihanfirdausx/raihanfirdausx.github.io/blob/main/index.html)
